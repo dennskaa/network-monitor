@@ -1,0 +1,20 @@
+# Log files
+*.log
+*.tmp
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Config files with sensitive data
+*.env
+*.secret
+
+# Temporary files
+*.temp
+*.cache
